@@ -1,10 +1,11 @@
 {
-  "tvmuse": {
-    "version": "0.1.0",
-    "releaseUrl": "http://159.65.139.233/tvmuse.tar.gz",
-    "description": "A scraper module for Leonflix that scrapes TVMuse and returns links.",
-    "type": "scraper",
-    "author": "anonymous"
+  "mit-opencourseware": {
+    "version": "1.0.0",
+    "releaseUrl": "https://leonflix.net/downloads/mit-opencourseware.tar.gz",
+    "description": "A Leonflix module that returns MIT OpenCourseWare lecture videos from archive.org.",
+    "type": "metadata/scraper",
+    "author": "leonflix",
+    "appVersion": "^0.4.3"
   },
   "sockshare": {
     "version": "0.1.0",
