@@ -1,8 +1,8 @@
 {
-  "mit-opencourseware": {
+  "khan-academy": {
     "version": "1.0.0",
-    "releaseUrl": "https://leonflix.net/downloads/mit-opencourseware.tar.gz",
-    "description": "A Leonflix module that returns MIT OpenCourseWare lecture videos from archive.org.",
+    "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
+    "description": "A Leonflix module for watching Khan Academy video lessons.",
     "type": "metadata/scraper",
     "author": "leonflix",
     "appVersion": "^0.4.3"
