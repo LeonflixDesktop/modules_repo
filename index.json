@@ -20,6 +20,6 @@
     "description": "Finds and returns sources from StreamCR.",
     "type": "scraper",
     "author": "anonymous",
-    "appVersion": "0.4.4",
+    "appVersion": "0.4.4"
   }
 }
