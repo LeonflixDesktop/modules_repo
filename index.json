@@ -16,7 +16,7 @@
   },
   "streamcr": {
     "version": "0.0.1",
-    "releaseUrl": "http://159.65.139.233/sockshare.tar.gz",
+    "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
     "description": "Finds and returns sources from StreamCR.",
     "type": "scraper",
     "author": "anonymous",
