@@ -1,11 +1,11 @@
 {
-  "khan-academy": {
-    "version": "1.0.0",
-    "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
-    "description": "A Leonflix module for watching Khan Academy video lessons.",
-    "type": "metadata/scraper",
-    "author": "leonflix",
-    "appVersion": "^0.4.3"
+  "streamcr": {
+    "version": "0.0.1",
+    "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
+    "description": "For those who like em HD.",
+    "type": "scraper",
+    "author": "anonymous",
+    "appVersion": "^0.4.4"
   },
   "sockshare": {
     "version": "0.1.0",
