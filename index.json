@@ -13,13 +13,5 @@
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
     "author": "anonymous"
-  },
-  "streamcr": {
-    "version": "0.0.1",
-    "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
-    "description": "For those who like em HD.",
-    "type": "scraper",
-    "author": "anonymous",
-    "appVersion": "0.4.4"
   }
 }
