@@ -1,6 +1,6 @@
 {
   "streamcr": {
-    "version": "0.0.1",
+    "version": "dev",
     "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
     "description": "For those who like em HD.",
     "type": "scraper",
