@@ -1,6 +1,7 @@
 {
   "streamcr": {
-    "version": "dev",
+    "name": "streamcr",
+    "version": "0.1.0",
     "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
     "description": "For those who like em HD.",
     "type": "scraper",
@@ -8,10 +9,29 @@
     "appVersion": "^0.4.4"
   },
   "sockshare": {
+    "name": "sockshare",
     "version": "0.1.0",
     "releaseUrl": "http://159.65.139.233/sockshare.tar.gz",
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
     "author": "anonymous"
+  },
+  "mit-opencourseware": {
+    "name": "mit-opencourseware",
+    "version": "1.0.0",
+    "releaseUrl": "https://leonflix.net/downloads/mit-opencourseware.tar.gz",
+    "description": "A Leonflix module that returns MIT OpenCourseWare lecture videos from archive.org.",
+    "appVersion": "^0.4.4",
+    "type": "metadata/scraper",
+    "author": "leonflix"
+  },
+  "khan-academy": {
+  "name": "khan-academy",
+  "version": "1.0.0",
+  "description": "A Leonflix module for watching Khan Academy video lessons.",
+  "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
+  "appVersion": "^0.4.4",
+  "type": "metadata/scraper",
+  "author": "leonflix"
   }
 }
