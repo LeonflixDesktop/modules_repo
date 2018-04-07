@@ -36,7 +36,7 @@
   },
   "sockshare2": {
     "name": "sockshare2",
-    "version": "dev",
+    "version": "0.0.1",
     "description": "A scraper module that scrapes another sockshare site.",
     "releaseUrl": "http://159.65.139.233/sockshare2.tar.gz",
     "type": "scraper",
