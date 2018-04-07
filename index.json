@@ -34,11 +34,11 @@
     "type": "scraper",
     "author": "anonymous"
   },
-  "sockshare2": {
-    "name": "sockshare2",
+  "sockwatch": {
+    "name": "sockwatch",
     "version": "0.0.1",
-    "description": "A scraper module that scrapes another sockshare site.",
-    "releaseUrl": "http://159.65.139.233/sockshare2.tar.gz",
+    "description": "A scraper module that scrapes a sock video site.",
+    "releaseUrl": "http://159.65.139.233/sockwatch.tar.gz",
     "type": "scraper",
     "author": "anonymous"
   }
