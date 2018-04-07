@@ -33,13 +33,5 @@
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
     "author": "anonymous"
-  },
-  "test": {
-    "name": "test",
-    "version": "dev",
-    "releaseUrl": "http://159.65.139.233/sockshare.tar.gz",
-    "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
-    "type": "scraper",
-    "author": "anonymous"
   }
 }
