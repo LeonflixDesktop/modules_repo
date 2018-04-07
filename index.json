@@ -10,7 +10,7 @@
   },
   "khan-academy": {
   "name": "khan-academy",
-  "version": "1.0.0",
+  "version": "dev",
   "description": "A Leonflix module for watching Khan Academy video lessons.",
   "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
   "appVersion": "^0.4.4",
