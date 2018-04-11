@@ -20,7 +20,7 @@
   "streamcr": {
     "name": "streamcr",
     "version": "0.1.0",
-    "releaseUrl": "http://159.65.139.233/streamcr.tar.gz",
+    "releaseUrl": "https://ams3.digitaloceanspaces.com/dopemodules/streamcr.tar.gz",
     "description": "For those who like em HD.",
     "type": "scraper",
     "author": "anonymous",
@@ -38,7 +38,7 @@
     "name": "sockwatch",
     "version": "0.0.1",
     "description": "A scraper module that scrapes a sock video site.",
-    "releaseUrl": "http://159.65.139.233/sockwatch.tar.gz",
+    "releaseUrl": "https://ams3.digitaloceanspaces.com/dopemodules/sockwatch.tar.gz",
     "type": "scraper",
     "author": "anonymous"
   }
