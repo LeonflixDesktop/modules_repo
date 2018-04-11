@@ -8,19 +8,19 @@
     "type": "metadata/scraper",
     "author": "leonflix"
   },
-  "khan-academy": {
-  "name": "khan-academy",
-  "version": "1.0.0",
-  "description": "A Leonflix module for watching Khan Academy video lessons.",
-  "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
-  "appVersion": "^0.4.4",
-  "type": "metadata/scraper",
-  "author": "leonflix"
+   "khan-academy": {
+    "name": "khan-academy",
+    "version": "1.0.0",
+    "description": "A Leonflix module for watching Khan Academy video lessons.",
+    "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
+    "appVersion": "^0.4.4",
+    "type": "metadata/scraper",
+    "author": "leonflix"
   },
   "streamcr": {
     "name": "streamcr",
     "version": "0.1.0",
-    "releaseUrl": "https://ams3.digitaloceanspaces.com/dopemodules/streamcr.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/streamcr.tar.gz",
     "description": "For those who like em HD.",
     "type": "scraper",
     "author": "anonymous",
@@ -32,14 +32,16 @@
     "releaseUrl": "http://159.65.139.233/sockshare.tar.gz",
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
-    "author": "anonymous"
+    "author": "anonymous",
+    "appVersion": "^0.4.4"
   },
   "sockwatch": {
     "name": "sockwatch",
     "version": "0.0.1",
     "description": "A scraper module that scrapes a sock video site.",
-    "releaseUrl": "https://ams3.digitaloceanspaces.com/dopemodules/sockwatch.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/sockwatch.tar.gz",
     "type": "scraper",
-    "author": "anonymous"
+    "author": "anonymous",
+    "appVersion": "^0.4.4"
   }
 }
