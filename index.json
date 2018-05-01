@@ -2,7 +2,7 @@
   "mit-opencourseware": {
     "name": "mit-opencourseware",
     "version": "1.0.0",
-    "releaseUrl": "https://leonflix.net/downloads/mit-opencourseware.tar.gz",
+    "releaseUrl": "https://leonflix.nyc3.digitaloceanspaces.com/mit-opencourseware.tar.gz",
     "description": "A Leonflix module that returns MIT OpenCourseWare lecture videos from archive.org.",
     "appVersion": "^0.4.4",
     "type": "metadata/scraper",
@@ -12,7 +12,7 @@
     "name": "khan-academy",
     "version": "1.0.0",
     "description": "A Leonflix module for watching Khan Academy video lessons.",
-    "releaseUrl": "https://leonflix.net/downloads/khan-academy.tar.gz",
+    "releaseUrl": "https://leonflix.nyc3.digitaloceanspaces.com/khan-academy.tar.gz",
     "appVersion": "^0.4.4",
     "type": "metadata/scraper",
     "author": "leonflix"
@@ -29,7 +29,7 @@
   "sockshare": {
     "name": "sockshare",
     "version": "0.1.0",
-    "releaseUrl": "http://159.65.139.233/sockshare.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/sockshare.tar.gz",
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
     "author": "anonymous",
