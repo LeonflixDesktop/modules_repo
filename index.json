@@ -20,7 +20,7 @@
   "streamcr": {
     "name": "streamcr",
     "version": "0.1.0",
-    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/streamcr.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/streamcr.tar.gz",
     "description": "For those who like em HD.",
     "type": "scraper",
     "author": "anonymous",
@@ -29,7 +29,7 @@
   "onmovies": {
     "name": "onmovies",
     "version": "1.0.0",
-    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/onmovies.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/onmovies.tar.gz",
     "description": "A scraper module that finds and returns links from onmovies.",
     "type": "scraper",
     "author": "anonymous",
@@ -38,7 +38,7 @@
   "sockshare": {
     "name": "sockshare",
     "version": "0.1.0",
-    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/sockshare.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/sockshare.tar.gz",
     "description": "A scraper module for Leonflix that finds and returns links from sockshare.video.",
     "type": "scraper",
     "author": "anonymous",
@@ -48,7 +48,7 @@
     "name": "sockwatch",
     "version": "0.0.1",
     "description": "A scraper module that scrapes a sock video site.",
-    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/sockwatch.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/sockwatch.tar.gz",
     "type": "scraper",
     "author": "anonymous",
     "appVersion": "^0.4.4"
