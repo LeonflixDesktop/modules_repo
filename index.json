@@ -26,6 +26,15 @@
     "author": "anonymous",
     "appVersion": "^0.4.4"
   },
+  "onmovies": {
+    "name": "onmovies",
+    "version": "1.0.0",
+    "releaseUrl": "https://dopemodules.ams3.digitaloceanspaces.com/onmovies.tar.gz",
+    "description": "A scraper module that finds and returns links from onmovies.",
+    "type": "scraper",
+    "author": "anonymous",
+    "appVersion": "^0.4.4"
+  },
   "sockshare": {
     "name": "sockshare",
     "version": "0.1.0",
