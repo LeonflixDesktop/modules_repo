@@ -17,14 +17,14 @@
     "type": "metadata/scraper",
     "author": "leonflix"
   },
-  "streamcr": {
-    "name": "streamcr",
+  "filepursuit": {
+    "name": "filepursuit",
     "version": "0.1.0",
-    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/streamcr.tar.gz",
-    "description": "For those who like em HD.",
-    "type": "scraper",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/filepursuit.tar.gz",
+    "description": "A direct search module for Leonflix.",
+    "type": "directSearch",
     "author": "anonymous",
-    "appVersion": "^0.4.4"
+    "appVersion": "^0.5.0"
   },
   "onmovies": {
     "name": "onmovies",
