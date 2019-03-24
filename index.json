@@ -26,6 +26,15 @@
     "author": "anonymous",
     "appVersion": "^0.5.0"
   },
+  "odb": {
+    "name": "odb",
+    "version": "1.0.0",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/ODB.tar.gz",
+    "description": "A direct search module that sources from ODB.",
+    "type": "directSearch",
+    "author": "anonymous",
+    "appVersion": "^0.5.0"
+  },
   "onmovies": {
     "name": "onmovies",
     "version": "1.0.0",
