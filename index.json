@@ -26,6 +26,15 @@
     "author": "anonymous",
     "appVersion": "^0.5.0"
   },
+  "odb": {
+    "name": "odb",
+    "version": "1.0.1",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/ODB.tar.gz",
+    "description": "A directSearch module for Leonflix, using ODB.",
+    "type": "directSearch",
+    "author": "anonymous",
+    "appVersion": "^0.5.0"
+  },
   "onmovies": {
     "name": "onmovies",
     "version": "1.0.0",
