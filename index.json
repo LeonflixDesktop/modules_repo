@@ -29,7 +29,7 @@
   "odb": {
     "name": "odb",
     "version": "1.0.1",
-    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/ODB.tar.gz",
+    "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/odb.tar.gz",
     "description": "A directSearch module for Leonflix, using ODB.",
     "type": "directSearch",
     "author": "anonymous",
