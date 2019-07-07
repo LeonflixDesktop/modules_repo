@@ -55,7 +55,7 @@
   },
   "sockwatch": {
     "name": "sockwatch",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "A scraper module that scrapes a sock video site.",
     "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/sockwatch.tar.gz",
     "type": "scraper",
