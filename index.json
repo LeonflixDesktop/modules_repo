@@ -37,7 +37,7 @@
   },
   "onmovies": {
     "name": "onmovies",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/onmovies.tar.gz",
     "description": "A scraper module that finds and returns links from onmovies.",
     "type": "scraper",
