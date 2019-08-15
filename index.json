@@ -19,7 +19,7 @@
   },
   "filepursuit": {
     "name": "filepursuit",
-    "version": "0.2.16",
+    "version": "0.2.17",
     "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/filepursuit.tar.gz",
     "description": "A direct search module for Leonflix.",
     "type": "directSearch",
