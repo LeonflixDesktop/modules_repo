@@ -56,9 +56,9 @@
   "sockwatch": {
     "name": "sockwatch",
     "version": "0.0.3",
-    "description": "A scraper module that scrapes a sock video site.",
+    "description": "A directSearch module that scrapes from afdah.",
     "releaseUrl": "https://dopemodules.ams3.cdn.digitaloceanspaces.com/sockwatch.tar.gz",
-    "type": "scraper",
+    "type": "directSearch",
     "author": "anonymous",
     "appVersion": "^0.4.4"
   }
